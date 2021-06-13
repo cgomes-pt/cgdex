@@ -4,9 +4,9 @@
 Heyo! 
 
 About me:
-😄 Learning some HTML and CSS 
-🎓 At the moment I'm studying Software Engineering (3rd year) 
-❤ Hobbies other than coding: Watching football, animes and playing . I also love to rice!
+- 😄 Learning some HTML and CSS 
+- 🎓 At the moment I'm studying Software Engineering (3rd year) 
+- ❤ Hobbies other than coding: Watching football, animes and playing . I also love to rice!
 
 
 
