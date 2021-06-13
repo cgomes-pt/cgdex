@@ -1,17 +1,15 @@
 ![Hello](https://raw.githubusercontent.com/CGDEX/cgdex/master/github.png)
 
 
-<!--
-**CGDEX/cgdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heyo! 
 
-Here are some ideas to get you started:
+About me:
+😄 Learning some HTML and CSS 
+🎓 At the moment I'm studying Software Engineering (3rd year) 
+❤ Hobbies other than coding: Watching football, animes and playing . I also love to rice!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![CGDEX's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgdex&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgdex&theme=radical)
