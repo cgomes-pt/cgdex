@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hello](https://raw.githubusercontent.com/CGDEX/cgdex/master/github.png)
+
 
 <!--
 **CGDEX/cgdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
