@@ -22,7 +22,7 @@ cool_person = {
         "photoshop", "opencv2", "googlecloud", "ansible"
     ],
     "contacts": {
-        "linkedin" : "dsadsad",
+        "linkedin" : "cgpt",
         "github" : "cgomes-pt"
     }    
 }
